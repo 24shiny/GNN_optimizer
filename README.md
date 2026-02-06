@@ -1,1 +1,1 @@
-Leveraging AI algorithms to advance quantum computing!
+GNNs for quantum circuit optimization!
